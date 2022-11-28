@@ -1,10 +1,11 @@
 # ur_gadget
 Useful gadgets for your python projects
 
-<img src="https://img.shields.io/pypi/pyversions/ur_gadget?logoColor=brown&style=plastic" alt= "Version"/>
-<img src="https://img.shields.io/pypi/dm/ur_gadget" alt="Download Badge"/>
-<img src="https://img.shields.io/github/last-commit/thinh-vu/ur_gadget" alt="Commit Badge"/>
-<img src="https://img.shields.io/github/license/thinh-vu/ur_gadget?color=red" alt="License Badge"/>
+<div>
+  <img src="https://img.shields.io/pypi/pyversions/ur_gadget?logoColor=brown&style=plastic" alt= "Version"/>
+  <img src="https://img.shields.io/pypi/dm/ur_gadget" alt="Download Badge"/>
+  <img src="https://img.shields.io/github/last-commit/thinh-vu/ur_gadget" alt="Commit Badge"/>
+  <img src="https://img.shields.io/github/license/thinh-vu/ur_gadget?color=red" alt="License Badge"/>
 </div>
 
 # II. REFERENCES
